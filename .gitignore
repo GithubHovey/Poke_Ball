@@ -1,0 +1,66 @@
+# Build outputs
+MDK-ARM/MonsterBall/*.axf
+MDK-ARM/MonsterBall/*.hex
+MDK-ARM/MonsterBall/*.bin
+MDK-ARM/MonsterBall/*.map
+MDK-ARM/MonsterBall/*.lst
+MDK-ARM/MonsterBall/*.o
+MDK-ARM/MonsterBall/*.d
+MDK-ARM/MonsterBall/*.crf
+MDK-ARM/MonsterBall/*.htm
+MDK-ARM/MonsterBall/*.build_log.htm
+MDK-ARM/MonsterBall/*.dep
+MDK-ARM/MonsterBall/*.lnp
+
+# Debug files
+MDK-ARM/DebugConfig/
+MDK-ARM/RTE/_MonsterBall/
+
+# IDE specific files
+*.uvguix.*
+*.uvoptx
+*.uvprojx.bak
+
+# Object files
+*.o
+*.obj
+*.elf
+
+# Dependency files
+*.d
+*.crf
+
+# List files
+*.lst
+*.map
+
+# Executable files
+*.axf
+*.hex
+*.bin
+
+# Debug files
+*.pdb
+
+# Backup files
+*.bak
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code specific (if used)
+.vscode/
+
+# CubeMX specific
+*.ioc.bak
+MXTmp/
+
+# User specific settings
+*.user
