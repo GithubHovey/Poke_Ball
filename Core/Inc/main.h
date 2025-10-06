@@ -63,6 +63,8 @@ void Error_Handler(void);
 #define CHARGE_IN_GPIO_Port GPIOC
 #define PWR_ON_Pin GPIO_PIN_2
 #define PWR_ON_GPIO_Port GPIOC
+#define BAT_ADC_Pin GPIO_PIN_1
+#define BAT_ADC_GPIO_Port GPIOA
 #define SPI3_CS_Pin GPIO_PIN_15
 #define SPI3_CS_GPIO_Port GPIOA
 

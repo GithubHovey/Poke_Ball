@@ -1,5 +1,5 @@
-#ifndef BLDC_H
-#define BLDC_H
+#ifndef FLYWHEEL_H
+#define FLYWHEEL_H
 
 #ifdef __cplusplus
 extern "C" {
@@ -9,4 +9,4 @@ extern "C" {
 }
 #endif
 
-#endif /* BLDC_H */
+#endif /* FLYWHEEL_H */
